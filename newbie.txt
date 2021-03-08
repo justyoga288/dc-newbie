@@ -2,5 +2,4 @@ DC Newbie
 - Create Project
 - Create Branch
 - Create Another Project
-- Create More Project
 - Create CWMA
