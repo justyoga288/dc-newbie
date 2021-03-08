@@ -3,6 +3,7 @@ RENCANA KONTEN DC
 - JavaScript
   * ES 6
   * Framework Javascript
+- Struktur Data Dasar
 - PHP Framework
 - Interview
 - Vlogs
