@@ -3,7 +3,10 @@ RENCANA KONTEN DC
 - JavaScript
   * ES 6
   * Framework Javascript
+    ^ Vue
 - Struktur Data Dasar
 - PHP Framework
+  * Laravel
 - Interview
 - Vlogs
+- Python
